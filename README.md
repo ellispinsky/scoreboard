@@ -1,4 +1,4 @@
-(https://tangerine-ganache-03f692.netlify.app)
+https://tangerine-ganache-03f692.netlify.app
 
 
 Quick start:
